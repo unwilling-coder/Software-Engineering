@@ -7,3 +7,4 @@ Group Member：
 软件测试：盛久飞
 
 
+其中prototype_pic中为prototype截图，红色框出为可交互部分
