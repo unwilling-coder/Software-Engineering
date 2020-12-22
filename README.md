@@ -8,3 +8,5 @@ Group Member：
 
 
 其中prototype_pic中为prototype截图，红色框出为可交互部分
+
+后期发现Time to Eat有点难以实现，所以重新设计了另外一个项目My Money，其中My Money.docx是新的Product version、Scenario、Features。
