@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Money</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="button_add">+</string>
+</resources>
